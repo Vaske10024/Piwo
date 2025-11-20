@@ -1,0 +1,10 @@
+pivnica test_ako() {
+  casa x🍺
+  x = 5🍺
+
+  ako (x > 0) {
+    nazdravi("pozitivno")🍺
+  } inace {
+    nazdravi("nepozitivno")🍺
+  }
+}

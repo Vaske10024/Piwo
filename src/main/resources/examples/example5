@@ -1,0 +1,8 @@
+pivnica logika() {
+  pijan p = tacno🍺
+  pijan q = netacno🍺
+
+  ako (p && q || tacno) {
+    nazdravi("uslov je tacan")🍺
+  }
+}

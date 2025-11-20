@@ -1,0 +1,8 @@
+pivnica brojanje() {
+  casa i = 0🍺
+
+  dok toci (i < 10) {
+    nazdravi("jos piva")🍺
+    i = i + 1🍺
+  }
+}

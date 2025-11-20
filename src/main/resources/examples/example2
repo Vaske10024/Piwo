@@ -1,0 +1,4 @@
+pivnica saberi(casa a, casa b): casa {
+  casa rezultat = a + b🍺
+  ziveli rezultat🍺
+}

@@ -1,0 +1,7 @@
+pivnica pozdrav(): casa {
+  ziveli 42🍺
+}
+
+pivnica main() {
+  casa rezultat = pozdrav()🍺
+}
